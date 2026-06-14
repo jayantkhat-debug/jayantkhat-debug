@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Jayant Khatri 👋
 
-<!--
-**jayantkhat-debug/jayantkhat-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **CPS Research Lab**, an independent research initiative exploring the intersection of Artificial Intelligence, Computational Neuroscience, Brain-Computer Interfaces, and Cognitive Preservation.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Artificial Intelligence
+- Computational Neuroscience
+- Brain-Computer Interfaces
+- Cognitive Preservation
+- AI Memory Systems
+
+## Current Work
+
+- Cognitive Preservation Systems
+- AI Memory Architectures
+- Long-term Cognitive Modeling
+- Human-AI Memory Collaboration
+
+## Publications
+
+- Cognitive Preservation Systems: Research Vision & Technical Framework
+
+## Links
+
+🌐 Website: https://cpsresearch.tech
+
+📄 Publications: https://cpsresearch.tech/publications
+
+📰 Media Kit: https://cpsresearch.tech/media-kit
+
+🆔 ORCID: https://orcid.org/0009-0006-0104-5376
+
+💼 LinkedIn: www.linkedin.com/in/jayantkhatri-cps
+
+📧 Contact: founder@cpsresearch.tech
