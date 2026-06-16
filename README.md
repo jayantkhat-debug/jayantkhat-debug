@@ -20,6 +20,7 @@ Founder of **CPS Research Lab**, an independent research initiative exploring th
 ## Publications
 
 - Cognitive Preservation Systems: Research Vision & Technical Framework
+  https://cpsresearch.tech/publications/cognitive-preservation-systems
 
 ## Links
 
